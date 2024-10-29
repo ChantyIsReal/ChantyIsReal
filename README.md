@@ -8,3 +8,4 @@ I don't have much stuff to say here but i will leave school projects here and mi
 
 
 Cya!![image](https://github.com/user-attachments/assets/3f6fd9f5-c7fc-4b77-a6d3-188d004e90a4)
+--!>
