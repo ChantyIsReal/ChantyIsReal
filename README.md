@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 <!--
-My name is Chanty and this is my Github profile ![emoticon](https://github.com/user-attachments/assets/db917462-0116-4b73-8ec0-6d5110334b79)
+My name is Chanty and this is my Github profile! ![alt text]([http://url/to/img.png](https://camo.githubusercontent.com/3db35749b20214985574b63edd08b9f7a619b3b032b2849072446a796a6523ff/68747470733a2f2f736c616e6769742e636f6d2f696d672f73632f6c6976655f6d657373656e6765722f737469636b696e675f746f6e6775655f6f75742e706e67))
 
 
 - 🔭 I’m currently working on ...
