@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
-**ChantyIsReal/ChantyIsReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Chanty and this is my Github profile ![emoticon](https://github.com/user-attachments/assets/db917462-0116-4b73-8ec0-6d5110334b79)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
