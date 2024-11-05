@@ -9,4 +9,5 @@ I don't have much stuff to say here but i will leave school projects here and mi
 
 Cya!![image](https://github.com/user-attachments/assets/3f6fd9f5-c7fc-4b77-a6d3-188d004e90a4)
 
-![Uploading 62e7d9f26b3e857a0ff482c413ccbd7e.gif…]()
+![62e7d9f26b3e857a0ff482c413ccbd7e](https://github.com/user-attachments/assets/ac6e582c-eafb-4274-ba9c-bdb001bc86f8)
+
